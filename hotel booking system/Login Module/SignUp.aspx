@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="New.aspx.cs" Inherits="New" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="SignUp.aspx.cs" Inherits="Login_Module_SignUp" %>
 
 <!DOCTYPE html>
 
@@ -9,6 +9,11 @@
 <body>
     <form id="form1" runat="server">
         <div>
+
+        </div>
+
+        <div>
+
         </div>
     </form>
 </body>
