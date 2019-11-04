@@ -4,11 +4,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <link href="../css/SignUpStyling.css" rel="stylesheet" />
     <title></title>
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div id="left">
 
             Sign Up and Start Planning Your Dream Wedding!
             
@@ -37,7 +38,7 @@ A-Z of wedding planning
 
 
 
-        <div>
+        <div id="right">
 <div>            <asp:Image ID="Image1" runat="server" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SIGN UP WITH FACEBOOK
 
