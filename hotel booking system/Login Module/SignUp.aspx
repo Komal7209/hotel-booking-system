@@ -12,9 +12,16 @@
         <div id="left">
 
             Sign Up and Start Planning Your Dream Wedding!
+            <br />
+            <br />
+            <br />
             
             Why Sign Up?
 
+            <br />
+            <br />
+            <br />
+<div>
           Shortlist venues & vendors 
 based on our recommendations
 
@@ -31,6 +38,7 @@ deals from Weddingz.in
 
 Get tips & ideas on the
 A-Z of wedding planning 
+    </div>
 
             And much more!
 
@@ -39,29 +47,63 @@ A-Z of wedding planning
 
 
         <div id="right">
-<div>            <asp:Image ID="Image1" runat="server" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SIGN UP WITH FACEBOOK
+<div>       
+         <div id="fb"> SIGN UP WITH FACEBOOK</div>
+
+            <br />
 
     We will not post anything without your permission
+    
+            <br />
+            <br/>
 
     ----------------------------OR-------------------------------
 </div>
             You can also sign up with email
 
+            
+            <br />
+            <br/>
+            <br />
+
             <asp:Label ID="Label1" runat="server" Text="First Name"></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged" ToolTip="Enter First Name"></asp:TextBox>
+
+            <br />
+            <br/>
+            <br />
 
             <asp:Label ID="Label2" runat="server" Text="Last Name"></asp:Label>
             <asp:TextBox ID="TextBox2" runat="server" ToolTip="Enter Last Name"></asp:TextBox>
 
+            
+            <br />
+            <br/>
+            <br />
+
             <asp:Label ID="Label3" runat="server" Text="Email"></asp:Label>
             <asp:TextBox ID="TextBox3" runat="server" ToolTip="Enter Email"></asp:TextBox>
+
+            
+            <br />
+            <br/>
+            <br />
 
             <asp:Label ID="Label4" runat="server" Text="Mobile"></asp:Label>
             <asp:TextBox ID="TextBox4" runat="server" ToolTip="Enter your mobile number"></asp:TextBox>
 
+            
+            <br />
+            <br/>
+            <br />
+
             <asp:Label ID="Label5" runat="server" Text="Password"></asp:Label>
             <asp:TextBox ID="TextBox5" runat="server" ToolTip="Enter your password"></asp:TextBox>
+
+            
+            <br />
+            <br/>
+            <br />
 
             <asp:Label ID="Label6" runat="server" Text="Confirm Password"></asp:Label>
             <asp:TextBox ID="TextBox6" runat="server" ToolTip="Re-enter Password"></asp:TextBox>
@@ -77,7 +119,7 @@ A-Z of wedding planning
 
         </div>
 
-    <div>
+    <div style="margin-top: 650px; margin-left:49% ; text-align:center ">
 
         Already have an account? Log In
     </div>

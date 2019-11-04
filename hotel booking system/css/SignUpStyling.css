@@ -3,8 +3,21 @@
 
 #left {
     background-color: aliceblue;
+    float: left; /*just for sign up box*/
+    text-align: center; /*just for sign up box*/
+    width: 49%; /*just for sign up box*/
+    height: 616px;
 }
 
 #right {
     background-color: antiquewhite;
+    border-style: outset;     /*just for sign up box*/
+    border-width: 5px;      /*just for sign up box*/
+    float: right;           /*just for sign up box*/
+    text-align: center;    /*just for sign up box*/
+    width: 50%;            /*just for sign up box*/
+}
+#fb {
+    background-color: #3b5998;
+    width:auto;
 }
