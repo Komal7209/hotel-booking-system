@@ -107,11 +107,13 @@ A-Z of wedding planning
 
             <asp:Label ID="Label6" runat="server" Text="Confirm Password"></asp:Label>
             <asp:TextBox ID="TextBox6" runat="server" ToolTip="Re-enter Password"></asp:TextBox>
-
+            <br />
+            <br/>
 
             <div>
 
                 By  submitting this form, you agree to our Terms and conditions
+                <br />
 
                 <asp:Button ID="Button1" runat="server" Text="Submit" />
 
@@ -120,7 +122,7 @@ A-Z of wedding planning
         </div>
 
     <div style="margin-top: 650px; margin-left:49% ; text-align:center ">
-
+        <br />
         Already have an account? Log In
     </div>
     </form>
